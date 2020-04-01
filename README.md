@@ -61,3 +61,4 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 - [Migrating from Firebase to Hasura](https://medium.com/@clapie.florent/how-i-scale-firebase-by-migrating-to-graphql-and-speed-up-my-development-by-10x-200b4a3068a0?sk=cf4a748bfa93d061ad84fd194d5e87bb)
 - [Resetting Hasura Migrations](https://blog.hasura.io/resetting-hasura-migrations/)
+- [Hasura + GraphQL Mesh = <3](https://dev.to/stephengfriend/hasura-graphql-mesh-3-5i5)
